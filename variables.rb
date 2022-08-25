@@ -9,3 +9,7 @@ favnum = 3
 money = 100.00
 pi = 3.14
 cash = 25.00
+
+alive = true
+sad = false
+hungry = false
